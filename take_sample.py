@@ -1,3 +1,7 @@
+##############################
+## Code by: Ridho Alamsyah ###
+##############################
+
 import cv2
 
 cam = cv2.VideoCapture(0)
