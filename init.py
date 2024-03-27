@@ -1,3 +1,7 @@
+##############################
+## Code by: Ridho Alamsyah ###
+##############################
+
 # initialize project
 import os
 
